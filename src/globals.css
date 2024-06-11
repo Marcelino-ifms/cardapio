@@ -46,7 +46,7 @@ body{
 .bloco-pedidos div, table{
     width: 100%;
 }
-th{
+td{
     width: 40%;
     padding: 1rem;
     text-align: center;
